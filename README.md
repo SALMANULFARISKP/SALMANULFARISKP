@@ -1,10 +1,3 @@
 ### Hello World, I'm Salman 👋
-
-- 🔭 I’m currently working on My Dreams.
-- 🌱 I’m currently learning About Actually I don't know.
-- 👯 I’m looking to collaborate on open source.
-- 💬 Ask me about Anything.
-- 📫 How to reach me:instagram @salmanul_faris_kp.
-- 😄 Pronouns: Hi Handsome.
-- ⚡ Fun fact: Iam Brilliant.
+I'm a Data Scientist & I enjoy solving problems. I'm really fascinated by the research happening in the Data Science/ML space & I try my level best to keep up with the advances.
 
